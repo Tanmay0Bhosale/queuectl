@@ -339,7 +339,7 @@ MIT License
 
 ## Author
 
-[Your Name]
+TANMAY BHOSALE
 
 ## Submission Checklist
 
